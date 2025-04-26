@@ -3,8 +3,8 @@
 // @run-at       document-body
 // @description  A redesign of r34 with subscription and infinte scroll
 // @namespace    https://github.com/mister-milky/r34-redux
-// @downloadURL  https://github.com/mister-milky/r34-redux/blob/main/react-userscripts.user.js
-// @updateURL    https://github.com/mister-milky/r34-redux/blob/main/react-userscripts.user.js
+// @downloadURL  https://github.com/mister-milky/r34-redux/raw/refs/heads/main/react-userscripts.user.js
+// @updateURL    https://github.com/mister-milky/r34-redux/raw/refs/heads/main/react-userscripts.user.js
 // @version      1.1.1
 // @match        *://rule34.xxx/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=rule34.xxx
